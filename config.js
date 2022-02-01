@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['085725924473'] // Put your number here //owner eval
-global.kontak = ['085725924473','0'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/HjcPuNK3NwsH62T6JAGIW6', ''] // ganti jadi group lu
+global.owner = ['083141445553'] // Put your number here //owner eval
+global.kontak = ['083141445553','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['085725924473'] // Premium user has unlimited limit
+global.prems = ['083141445553'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
